@@ -1,0 +1,1545 @@
+[14/Apr/2025:08:59:20 +0000] [error] [client 24.147.180.192] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:20:56:40 +0000] [error] [client 159.162.98.228] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:01:14:59 +0000] [error] [client 160.232.0.253] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:01:31:46 +0000] [error] [client 193.76.143.129] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:16:01:31 +0000] [error] [client 135.207.120.68] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:01:28:54 +0000] [error] [client 205.196.122.163] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:05:13:05 +0000] [error] [client 114.204.10.19] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:12:31:11 +0000] [error] [client 152.86.241.211] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:17:40:05 +0000] [error] [client 97.207.149.15] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:07:30:19 +0000] [error] [client 69.147.49.21] client denied by server configuration: /restricted
+[14/Apr/2025:05:36:26 +0000] [error] [client 8.189.116.204] client denied by server configuration: /restricted
+[14/Apr/2025:22:21:27 +0000] [error] [client 194.28.191.185] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:12:50:46 +0000] [error] [client 131.131.100.60] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:13:11:48 +0000] [error] [client 184.113.9.126] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:16:57:24 +0000] [error] [client 132.213.86.96] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:12:08:22 +0000] [error] [client 111.166.13.187] client denied by server configuration: /restricted
+[14/Apr/2025:02:53:13 +0000] [error] [client 119.92.174.151] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:18:00:42 +0000] [error] [client 128.231.36.20] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:16:30:59 +0000] [error] [client 165.4.249.199] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:15:42:06 +0000] [error] [client 34.2.44.130] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:07:43:37 +0000] [error] [client 173.137.140.42] client denied by server configuration: /restricted
+[14/Apr/2025:02:57:01 +0000] [error] [client 162.220.237.184] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:17:41:06 +0000] [error] [client 22.201.79.228] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:16:23:47 +0000] [error] [client 201.136.52.106] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:03:51:42 +0000] [error] [client 73.237.117.107] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:15:59:15 +0000] [error] [client 220.244.2.210] client denied by server configuration: /restricted
+[14/Apr/2025:06:54:26 +0000] [error] [client 51.114.14.10] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:04:36:50 +0000] [error] [client 42.196.222.144] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:05:01:14 +0000] [error] [client 97.191.226.197] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:00:00:54 +0000] [error] [client 167.58.53.230] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:04:47:37 +0000] [error] [client 132.206.84.190] client denied by server configuration: /restricted
+[14/Apr/2025:00:29:32 +0000] [error] [client 9.70.32.122] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:15:58:19 +0000] [error] [client 40.242.196.212] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:23:21:20 +0000] [error] [client 76.18.199.70] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:16:22:42 +0000] [error] [client 222.82.111.91] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:03:48:45 +0000] [error] [client 201.6.87.170] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:19:22:18 +0000] [error] [client 130.198.38.52] client denied by server configuration: /restricted
+[14/Apr/2025:22:28:14 +0000] [error] [client 143.43.145.39] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:01:45:24 +0000] [error] [client 32.124.123.225] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:07:21:23 +0000] [error] [client 97.252.184.200] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:03:57:57 +0000] [error] [client 128.41.79.157] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:08:36:11 +0000] [error] [client 8.233.185.253] client denied by server configuration: /restricted
+[14/Apr/2025:18:17:51 +0000] [error] [client 144.132.169.197] client denied by server configuration: /restricted
+[14/Apr/2025:10:23:54 +0000] [error] [client 41.59.177.181] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:19:56:42 +0000] [error] [client 142.141.23.42] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:11:16:58 +0000] [error] [client 200.169.211.242] client denied by server configuration: /restricted
+[14/Apr/2025:09:54:45 +0000] [error] [client 74.248.31.19] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:15:33:27 +0000] [error] [client 160.67.39.236] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:16:41:52 +0000] [error] [client 34.165.198.164] client denied by server configuration: /restricted
+[14/Apr/2025:04:00:51 +0000] [error] [client 77.20.35.161] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:03:30:15 +0000] [error] [client 189.56.205.244] client denied by server configuration: /restricted
+[14/Apr/2025:05:14:05 +0000] [error] [client 1.145.146.197] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:19:08:54 +0000] [error] [client 143.190.37.112] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:22:28:20 +0000] [error] [client 217.125.9.251] client denied by server configuration: /restricted
+[14/Apr/2025:20:59:27 +0000] [error] [client 199.21.27.215] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:16:02:06 +0000] [error] [client 215.216.73.82] client denied by server configuration: /restricted
+[14/Apr/2025:21:50:54 +0000] [error] [client 56.131.134.176] client denied by server configuration: /restricted
+[14/Apr/2025:01:08:16 +0000] [error] [client 80.22.81.62] client denied by server configuration: /restricted
+[14/Apr/2025:15:26:24 +0000] [error] [client 188.98.179.243] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:15:39:10 +0000] [error] [client 219.60.29.127] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:05:34:27 +0000] [error] [client 63.37.0.112] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:16:54:23 +0000] [error] [client 218.227.233.199] client denied by server configuration: /restricted
+[14/Apr/2025:23:41:38 +0000] [error] [client 21.87.209.39] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:22:09:13 +0000] [error] [client 32.97.192.106] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:14:31:29 +0000] [error] [client 66.229.66.192] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:12:31:13 +0000] [error] [client 130.73.127.45] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:14:28:57 +0000] [error] [client 119.160.253.48] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:12:19:48 +0000] [error] [client 119.3.115.56] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:12:02:21 +0000] [error] [client 178.41.28.83] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:18:20:07 +0000] [error] [client 150.149.88.180] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:16:11:02 +0000] [error] [client 121.214.9.8] client denied by server configuration: /restricted
+[14/Apr/2025:00:28:59 +0000] [error] [client 27.252.4.81] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:21:42:14 +0000] [error] [client 203.189.251.74] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:04:19:35 +0000] [error] [client 201.3.116.83] client denied by server configuration: /restricted
+[14/Apr/2025:03:41:15 +0000] [error] [client 158.57.131.31] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:11:56:14 +0000] [error] [client 139.136.200.97] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:01:48:58 +0000] [error] [client 62.236.226.90] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:16:35:53 +0000] [error] [client 161.185.247.208] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:12:47:27 +0000] [error] [client 95.10.214.249] client denied by server configuration: /restricted
+[14/Apr/2025:12:29:17 +0000] [error] [client 12.90.198.219] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:16:23:07 +0000] [error] [client 213.8.55.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:12:05:57 +0000] [error] [client 12.177.10.220] client denied by server configuration: /restricted
+[14/Apr/2025:17:47:55 +0000] [error] [client 196.126.59.201] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:21:42:26 +0000] [error] [client 20.17.85.170] client denied by server configuration: /restricted
+[14/Apr/2025:13:03:08 +0000] [error] [client 208.146.135.190] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:18:37:26 +0000] [error] [client 195.125.247.230] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:05:24:42 +0000] [error] [client 87.123.53.59] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:17:50:26 +0000] [error] [client 119.225.14.76] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:12:35:03 +0000] [error] [client 187.56.80.52] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:14:02:53 +0000] [error] [client 218.237.205.133] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:21:47:20 +0000] [error] [client 131.189.113.133] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:13:44:37 +0000] [error] [client 34.229.197.39] client denied by server configuration: /restricted
+[14/Apr/2025:07:02:34 +0000] [error] [client 37.209.141.131] client denied by server configuration: /restricted
+[14/Apr/2025:07:21:20 +0000] [error] [client 120.75.3.66] client denied by server configuration: /restricted
+[14/Apr/2025:22:31:06 +0000] [error] [client 37.152.226.58] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:07:21:34 +0000] [error] [client 192.50.41.76] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:12:10:46 +0000] [error] [client 137.168.244.192] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:12:23:54 +0000] [error] [client 215.227.16.140] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:14:37:01 +0000] [error] [client 105.237.62.36] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:22:58:48 +0000] [error] [client 117.248.108.24] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:07:14:38 +0000] [error] [client 191.96.6.37] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:20:24:13 +0000] [error] [client 24.72.172.28] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:10:00:30 +0000] [error] [client 151.55.59.64] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:05:30:43 +0000] [error] [client 103.121.182.23] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:01:20:26 +0000] [error] [client 170.36.116.5] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:17:32:01 +0000] [error] [client 32.15.213.0] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:22:49:58 +0000] [error] [client 122.249.24.23] client denied by server configuration: /restricted
+[14/Apr/2025:07:31:15 +0000] [error] [client 18.104.21.163] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:01:11:46 +0000] [error] [client 59.243.83.134] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:06:14:25 +0000] [error] [client 83.118.248.142] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:14:33:52 +0000] [error] [client 3.126.129.89] client denied by server configuration: /restricted
+[14/Apr/2025:21:12:34 +0000] [error] [client 40.250.193.64] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:19:37:47 +0000] [error] [client 220.52.40.123] client denied by server configuration: /restricted
+[14/Apr/2025:02:16:18 +0000] [error] [client 66.198.6.175] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:12:43:43 +0000] [error] [client 120.230.18.46] client denied by server configuration: /restricted
+[14/Apr/2025:09:42:22 +0000] [error] [client 187.227.191.49] client denied by server configuration: /restricted
+[14/Apr/2025:15:21:52 +0000] [error] [client 80.235.130.57] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:22:17:50 +0000] [error] [client 198.244.189.24] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:23:17:56 +0000] [error] [client 135.130.172.9] client denied by server configuration: /restricted
+[14/Apr/2025:18:40:34 +0000] [error] [client 85.82.52.182] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:14:10:42 +0000] [error] [client 32.32.63.111] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:22:10:43 +0000] [error] [client 40.163.97.67] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:07:19:25 +0000] [error] [client 52.46.128.7] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:09:35:11 +0000] [error] [client 110.0.253.55] client denied by server configuration: /restricted
+[14/Apr/2025:21:14:58 +0000] [error] [client 130.107.51.216] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:02:46:25 +0000] [error] [client 56.105.153.162] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:06:35:39 +0000] [error] [client 22.121.225.220] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:10:55:37 +0000] [error] [client 200.210.100.181] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:19:05:15 +0000] [error] [client 33.179.32.132] client denied by server configuration: /restricted
+[14/Apr/2025:21:22:49 +0000] [error] [client 89.232.120.47] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:16:24:14 +0000] [error] [client 192.195.194.6] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:23:53:48 +0000] [error] [client 162.93.194.115] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:16:25:15 +0000] [error] [client 120.63.45.183] client denied by server configuration: /restricted
+[14/Apr/2025:03:37:05 +0000] [error] [client 223.235.178.63] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:21:47:48 +0000] [error] [client 118.36.229.143] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:17:49:33 +0000] [error] [client 214.101.126.115] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:22:24:18 +0000] [error] [client 191.94.128.119] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:10:01:11 +0000] [error] [client 108.53.2.163] client denied by server configuration: /restricted
+[14/Apr/2025:15:15:17 +0000] [error] [client 215.195.210.147] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:22:14:22 +0000] [error] [client 67.28.153.243] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:06:07:57 +0000] [error] [client 179.174.208.153] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:09:36:28 +0000] [error] [client 7.130.60.18] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:23:27:51 +0000] [error] [client 91.99.255.219] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:07:07:45 +0000] [error] [client 42.253.70.169] client denied by server configuration: /restricted
+[14/Apr/2025:19:39:31 +0000] [error] [client 80.188.147.247] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:20:24:22 +0000] [error] [client 126.254.59.11] client denied by server configuration: /restricted
+[14/Apr/2025:19:35:16 +0000] [error] [client 76.202.7.243] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:13:49:15 +0000] [error] [client 139.81.147.111] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:07:14:53 +0000] [error] [client 213.241.213.29] client denied by server configuration: /restricted
+[14/Apr/2025:16:42:38 +0000] [error] [client 100.42.41.4] client denied by server configuration: /restricted
+[14/Apr/2025:21:58:48 +0000] [error] [client 178.169.170.187] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:08:30:02 +0000] [error] [client 52.142.243.165] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:11:16:24 +0000] [error] [client 108.58.244.124] client denied by server configuration: /restricted
+[14/Apr/2025:14:00:26 +0000] [error] [client 194.118.207.10] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:23:34:37 +0000] [error] [client 34.150.152.67] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:03:30:13 +0000] [error] [client 210.7.195.228] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:16:31:15 +0000] [error] [client 48.179.246.171] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:01:09:54 +0000] [error] [client 146.168.197.197] client denied by server configuration: /restricted
+[14/Apr/2025:09:27:02 +0000] [error] [client 193.39.235.130] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:20:00:16 +0000] [error] [client 16.184.188.7] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:18:18:51 +0000] [error] [client 173.224.179.209] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:19:14:02 +0000] [error] [client 74.54.96.229] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:03:53:42 +0000] [error] [client 132.189.86.84] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:07:51:43 +0000] [error] [client 65.140.174.174] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:21:58:31 +0000] [error] [client 177.119.9.35] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:09:30:46 +0000] [error] [client 15.68.141.231] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:11:26:06 +0000] [error] [client 73.114.103.167] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:14:06:11 +0000] [error] [client 22.110.219.65] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:14:01:56 +0000] [error] [client 215.81.226.121] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:12:15:08 +0000] [error] [client 68.223.207.98] client denied by server configuration: /restricted
+[14/Apr/2025:04:22:44 +0000] [error] [client 49.149.4.222] client denied by server configuration: /restricted
+[14/Apr/2025:05:22:45 +0000] [error] [client 23.129.183.1] client denied by server configuration: /restricted
+[14/Apr/2025:17:03:01 +0000] [error] [client 164.146.239.146] client denied by server configuration: /restricted
+[14/Apr/2025:15:31:07 +0000] [error] [client 141.70.25.172] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:16:34:02 +0000] [error] [client 30.27.35.200] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:02:06:59 +0000] [error] [client 117.9.114.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:02:46:37 +0000] [error] [client 27.130.183.120] client denied by server configuration: /restricted
+[14/Apr/2025:10:24:51 +0000] [error] [client 221.188.173.89] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:20:23:03 +0000] [error] [client 170.138.161.151] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:15:09:37 +0000] [error] [client 217.167.75.198] client denied by server configuration: /restricted
+[14/Apr/2025:02:56:12 +0000] [error] [client 136.82.180.129] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:18:21:54 +0000] [error] [client 132.214.64.179] client denied by server configuration: /restricted
+[14/Apr/2025:23:00:56 +0000] [error] [client 108.62.163.212] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:11:59:55 +0000] [error] [client 81.249.212.232] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:03:20:21 +0000] [error] [client 213.123.232.222] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:00:16:26 +0000] [error] [client 41.219.136.238] client denied by server configuration: /restricted
+[14/Apr/2025:16:18:32 +0000] [error] [client 215.211.76.117] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:23:19:43 +0000] [error] [client 75.189.90.16] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:20:28:05 +0000] [error] [client 210.242.22.140] client denied by server configuration: /restricted
+[14/Apr/2025:08:14:32 +0000] [error] [client 18.123.11.237] client denied by server configuration: /restricted
+[14/Apr/2025:13:42:35 +0000] [error] [client 130.100.132.166] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:19:51:30 +0000] [error] [client 91.39.84.189] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:03:06:35 +0000] [error] [client 39.247.202.182] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:18:51:09 +0000] [error] [client 221.77.125.41] client denied by server configuration: /restricted
+[14/Apr/2025:01:57:32 +0000] [error] [client 169.0.87.33] client denied by server configuration: /restricted
+[14/Apr/2025:08:54:50 +0000] [error] [client 83.129.69.182] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:11:55:35 +0000] [error] [client 139.176.149.122] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:22:52:41 +0000] [error] [client 30.160.1.90] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:20:01:35 +0000] [error] [client 171.91.141.150] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:05:58:53 +0000] [error] [client 16.136.187.147] client denied by server configuration: /restricted
+[14/Apr/2025:17:34:47 +0000] [error] [client 162.51.37.199] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:08:43:43 +0000] [error] [client 7.141.84.200] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:02:41:03 +0000] [error] [client 86.110.43.18] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:01:33:12 +0000] [error] [client 211.30.125.238] client denied by server configuration: /restricted
+[14/Apr/2025:00:45:21 +0000] [error] [client 16.164.21.140] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:01:22:40 +0000] [error] [client 112.205.27.3] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:04:47:12 +0000] [error] [client 137.143.205.61] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:13:10:48 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:14:33:58 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:14:33:49 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:02:52:32 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:11:38:19 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:02:16:46 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:15:50:53 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:20:05:15 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:04:54:30 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:04:34:22 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:02:43:18 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:03:54:40 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:15:13:29 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:01:45:56 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:02:36:31 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:13:58:26 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:03:57:34 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:02:45:37 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:03:43:32 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:23:36:17 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:00:22:10 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:13:14:15 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:19:14:02 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:00:08:22 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:06:56:38 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:04:07:00 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:08:50:24 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:19:38:07 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:12:42:04 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:16:34:35 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:10:49:50 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:13:02:16 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:09:36:52 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:01:31:15 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:02:59:56 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:11:02:56 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:02:05:50 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:13:42:29 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:00:46:46 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:10:14:09 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:13:46:11 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:01:56:07 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:00:53:56 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:17:57:21 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:03:59:39 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:13:56:08 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:14:21:56 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:22:38:27 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:15:12:23 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:23:18:30 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:14:09:54 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:09:35:49 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:17:07:56 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[14/Apr/2025:20:13:11 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:03:01:03 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:15:16:55 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:15:51:25 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:20:04:00 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:14:52:41 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:20:09:52 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:10:13:43 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:13:46:26 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:05:40:45 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:17:32:01 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:20:29:50 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:10:30:55 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:09:18:09 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:06:35:50 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:20:12:10 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:11:35:02 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:00:55:19 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:23:18:50 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:21:57:24 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:11:38:12 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:19:19:46 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:06:59:07 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:01:25:13 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:11:47:13 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:01:18:50 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:02:44:08 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:17:53:46 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:14:51:31 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:16:53:47 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:07:53:17 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:23:54:15 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:06:25:27 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:08:27:22 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:22:12:05 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:05:45:23 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:00:26:19 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:15:12:13 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:13:32:16 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:00:02:38 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:18:17:48 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[14/Apr/2025:13:18:02 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:10:21:53 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:19:20:28 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:08:48:31 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:09:35:27 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:17:57:00 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:14:25:07 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:17:36:09 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[14/Apr/2025:13:06:17 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:18:14:26 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:18:33:30 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:19:50:29 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:20:56:42 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:23:09:41 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[14/Apr/2025:16:14:14 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:23:33:00 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[14/Apr/2025:08:47:32 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:18:29:04 +0000] [error] [client 76.203.126.212] client denied by server configuration: /restricted
+[13/Apr/2025:03:07:49 +0000] [error] [client 166.13.141.190] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:19:49:39 +0000] [error] [client 9.201.97.12] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:01:26:31 +0000] [error] [client 117.91.232.76] client denied by server configuration: /restricted
+[13/Apr/2025:14:42:41 +0000] [error] [client 34.60.151.148] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:18:05:49 +0000] [error] [client 37.30.46.188] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:16:04:15 +0000] [error] [client 121.47.242.6] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:02:18:46 +0000] [error] [client 144.246.41.93] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:14:47:55 +0000] [error] [client 39.7.116.174] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:02:48:10 +0000] [error] [client 32.248.4.141] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:14:56:15 +0000] [error] [client 209.27.236.57] client denied by server configuration: /restricted
+[13/Apr/2025:05:55:39 +0000] [error] [client 75.220.58.209] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:18:50:41 +0000] [error] [client 143.196.30.66] client denied by server configuration: /restricted
+[13/Apr/2025:17:36:31 +0000] [error] [client 198.180.168.199] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:17:29:35 +0000] [error] [client 54.193.31.208] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:16:40:26 +0000] [error] [client 141.210.108.13] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:05:25:44 +0000] [error] [client 86.222.203.174] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:19:32:33 +0000] [error] [client 215.121.209.5] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:14:39:40 +0000] [error] [client 11.221.175.26] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:18:17:51 +0000] [error] [client 199.26.115.255] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:10:56:21 +0000] [error] [client 174.40.177.0] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:18:07:13 +0000] [error] [client 61.169.92.96] client denied by server configuration: /restricted
+[13/Apr/2025:08:25:59 +0000] [error] [client 22.147.80.57] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:06:46:12 +0000] [error] [client 96.190.172.113] client denied by server configuration: /restricted
+[13/Apr/2025:00:42:10 +0000] [error] [client 8.79.161.98] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:02:46:15 +0000] [error] [client 214.111.75.204] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:16:40:50 +0000] [error] [client 29.103.201.137] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:12:45:58 +0000] [error] [client 205.116.240.74] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:15:35:15 +0000] [error] [client 116.60.88.219] client denied by server configuration: /restricted
+[13/Apr/2025:15:25:21 +0000] [error] [client 106.158.93.182] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:05:01:54 +0000] [error] [client 55.141.250.91] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:06:41:10 +0000] [error] [client 59.3.26.169] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:18:08:23 +0000] [error] [client 19.153.53.17] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:12:10:20 +0000] [error] [client 66.87.189.204] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:20:56:45 +0000] [error] [client 145.152.53.108] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:12:05:50 +0000] [error] [client 219.222.1.61] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:19:46:28 +0000] [error] [client 81.32.54.123] client denied by server configuration: /restricted
+[13/Apr/2025:03:08:27 +0000] [error] [client 161.101.158.241] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:07:52:52 +0000] [error] [client 206.70.244.255] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:17:34:48 +0000] [error] [client 78.33.173.145] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:22:44:04 +0000] [error] [client 55.188.46.41] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:10:49:39 +0000] [error] [client 96.229.68.220] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:03:11:26 +0000] [error] [client 77.186.13.60] client denied by server configuration: /restricted
+[13/Apr/2025:14:05:07 +0000] [error] [client 92.255.179.226] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:07:34:59 +0000] [error] [client 112.230.127.254] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:22:51:07 +0000] [error] [client 218.191.194.158] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:06:25:28 +0000] [error] [client 184.201.181.234] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:12:12:22 +0000] [error] [client 157.12.117.167] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:23:15:28 +0000] [error] [client 19.8.84.73] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:08:13:40 +0000] [error] [client 1.216.254.97] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:08:47:40 +0000] [error] [client 27.35.147.55] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:10:57:01 +0000] [error] [client 96.237.252.226] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:10:44:06 +0000] [error] [client 64.149.243.155] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:01:34:45 +0000] [error] [client 157.25.126.155] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:14:42:00 +0000] [error] [client 24.18.66.62] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:11:02:11 +0000] [error] [client 203.60.186.169] client denied by server configuration: /restricted
+[13/Apr/2025:04:27:12 +0000] [error] [client 70.51.10.152] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:09:40:13 +0000] [error] [client 39.38.134.145] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:05:16:59 +0000] [error] [client 172.170.8.125] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:21:45:56 +0000] [error] [client 96.102.155.240] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:11:09:57 +0000] [error] [client 82.74.96.190] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:22:21:09 +0000] [error] [client 9.82.57.201] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:00:13:02 +0000] [error] [client 33.222.36.82] client denied by server configuration: /restricted
+[13/Apr/2025:09:02:51 +0000] [error] [client 202.4.76.212] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:05:39:42 +0000] [error] [client 17.17.75.224] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:17:47:08 +0000] [error] [client 141.249.159.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:16:28:52 +0000] [error] [client 106.27.43.252] client denied by server configuration: /restricted
+[13/Apr/2025:00:47:58 +0000] [error] [client 166.112.132.229] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:13:33:08 +0000] [error] [client 26.152.119.227] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:06:19:53 +0000] [error] [client 34.207.161.23] client denied by server configuration: /restricted
+[13/Apr/2025:16:28:53 +0000] [error] [client 53.152.70.16] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:23:49:36 +0000] [error] [client 67.126.12.90] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:15:45:56 +0000] [error] [client 178.123.209.36] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:03:33:04 +0000] [error] [client 163.48.249.81] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:10:35:19 +0000] [error] [client 65.235.219.170] client denied by server configuration: /restricted
+[13/Apr/2025:00:34:09 +0000] [error] [client 55.44.67.182] client denied by server configuration: /restricted
+[13/Apr/2025:12:14:58 +0000] [error] [client 133.66.190.90] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:21:53:05 +0000] [error] [client 189.172.122.57] client denied by server configuration: /restricted
+[13/Apr/2025:12:24:34 +0000] [error] [client 93.105.234.254] client denied by server configuration: /restricted
+[13/Apr/2025:11:05:36 +0000] [error] [client 1.84.32.198] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:00:57:19 +0000] [error] [client 157.143.2.214] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:02:45:33 +0000] [error] [client 205.93.145.130] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:05:55:12 +0000] [error] [client 15.126.84.144] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:05:11:31 +0000] [error] [client 151.13.179.155] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:07:09:52 +0000] [error] [client 41.39.235.12] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:00:19:23 +0000] [error] [client 5.246.164.94] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:05:46:01 +0000] [error] [client 60.121.142.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:21:39:18 +0000] [error] [client 62.13.136.218] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:13:51:41 +0000] [error] [client 191.182.247.20] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:08:44:17 +0000] [error] [client 174.143.216.211] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:21:13:26 +0000] [error] [client 89.227.144.244] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:19:28:45 +0000] [error] [client 208.144.219.189] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:00:20:36 +0000] [error] [client 211.10.44.145] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:19:57:22 +0000] [error] [client 172.27.2.121] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:14:52:57 +0000] [error] [client 82.98.45.173] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:11:39:02 +0000] [error] [client 153.27.212.195] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:11:22:08 +0000] [error] [client 85.40.135.190] client denied by server configuration: /restricted
+[13/Apr/2025:22:30:29 +0000] [error] [client 8.187.184.91] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:10:41:57 +0000] [error] [client 88.32.255.158] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:18:31:24 +0000] [error] [client 95.1.70.145] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:10:11:45 +0000] [error] [client 64.26.146.228] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:01:26:46 +0000] [error] [client 169.78.2.36] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:09:20:34 +0000] [error] [client 63.190.211.57] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:16:24:41 +0000] [error] [client 14.184.12.50] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:19:56:19 +0000] [error] [client 62.173.219.159] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:17:39:41 +0000] [error] [client 2.147.236.115] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:06:08:40 +0000] [error] [client 159.97.211.6] client denied by server configuration: /restricted
+[13/Apr/2025:17:53:05 +0000] [error] [client 215.75.73.120] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:14:01:44 +0000] [error] [client 204.228.70.181] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:11:30:19 +0000] [error] [client 169.97.127.46] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:20:16:00 +0000] [error] [client 96.192.246.23] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:12:39:11 +0000] [error] [client 92.168.68.63] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:23:08:30 +0000] [error] [client 201.121.195.37] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:13:45:56 +0000] [error] [client 138.160.109.119] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:15:19:36 +0000] [error] [client 12.145.18.244] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:05:32:40 +0000] [error] [client 181.230.125.93] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:12:07:52 +0000] [error] [client 26.107.251.157] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:21:17:01 +0000] [error] [client 1.165.198.65] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:21:48:54 +0000] [error] [client 6.231.136.25] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:10:18:53 +0000] [error] [client 7.65.105.201] client denied by server configuration: /restricted
+[13/Apr/2025:03:44:45 +0000] [error] [client 147.37.130.93] client denied by server configuration: /restricted
+[13/Apr/2025:16:43:42 +0000] [error] [client 181.35.36.248] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:05:38:33 +0000] [error] [client 220.70.214.28] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:15:18:26 +0000] [error] [client 208.100.158.68] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:07:08:57 +0000] [error] [client 19.124.79.123] client denied by server configuration: /restricted
+[13/Apr/2025:18:14:02 +0000] [error] [client 87.215.183.238] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:15:56:16 +0000] [error] [client 176.42.93.230] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:18:42:00 +0000] [error] [client 33.221.1.33] client denied by server configuration: /restricted
+[13/Apr/2025:21:08:21 +0000] [error] [client 60.54.188.117] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:12:26:55 +0000] [error] [client 209.63.4.110] client denied by server configuration: /restricted
+[13/Apr/2025:00:30:49 +0000] [error] [client 155.167.6.180] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:12:00:08 +0000] [error] [client 12.169.165.144] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:17:37:14 +0000] [error] [client 160.224.238.231] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:09:52:45 +0000] [error] [client 113.106.252.232] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:11:53:44 +0000] [error] [client 219.172.194.114] client denied by server configuration: /restricted
+[13/Apr/2025:05:49:28 +0000] [error] [client 191.212.49.255] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:04:36:03 +0000] [error] [client 153.131.56.18] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:03:52:08 +0000] [error] [client 141.26.181.51] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:07:15:18 +0000] [error] [client 106.46.17.90] client denied by server configuration: /restricted
+[13/Apr/2025:12:54:21 +0000] [error] [client 28.117.31.92] client denied by server configuration: /restricted
+[13/Apr/2025:01:29:07 +0000] [error] [client 96.101.46.153] client denied by server configuration: /restricted
+[13/Apr/2025:20:31:41 +0000] [error] [client 87.26.104.237] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:20:56:40 +0000] [error] [client 220.101.108.159] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:09:01:14 +0000] [error] [client 198.211.176.60] client denied by server configuration: /restricted
+[13/Apr/2025:05:49:44 +0000] [error] [client 146.10.201.211] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:22:06:26 +0000] [error] [client 107.225.149.12] client denied by server configuration: /restricted
+[13/Apr/2025:13:10:53 +0000] [error] [client 58.244.86.236] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:03:47:09 +0000] [error] [client 124.0.4.3] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:17:42:31 +0000] [error] [client 203.53.31.108] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:09:18:50 +0000] [error] [client 146.122.162.179] client denied by server configuration: /restricted
+[13/Apr/2025:16:38:52 +0000] [error] [client 73.196.117.54] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:07:50:54 +0000] [error] [client 205.71.115.185] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:15:07:25 +0000] [error] [client 208.214.123.35] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:11:16:05 +0000] [error] [client 119.184.182.144] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:02:28:25 +0000] [error] [client 86.123.44.103] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:14:45:06 +0000] [error] [client 196.194.135.70] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:01:13:17 +0000] [error] [client 137.145.8.230] client denied by server configuration: /restricted
+[13/Apr/2025:04:43:41 +0000] [error] [client 209.92.248.82] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:01:49:30 +0000] [error] [client 131.82.199.63] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:01:08:29 +0000] [error] [client 72.83.222.189] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:14:19:33 +0000] [error] [client 32.150.70.98] client denied by server configuration: /restricted
+[13/Apr/2025:10:13:54 +0000] [error] [client 62.223.75.160] client denied by server configuration: /restricted
+[13/Apr/2025:10:42:52 +0000] [error] [client 36.186.224.238] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:19:54:27 +0000] [error] [client 180.151.178.90] client denied by server configuration: /restricted
+[13/Apr/2025:03:58:53 +0000] [error] [client 167.4.125.51] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:20:13:35 +0000] [error] [client 13.107.218.59] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:07:46:30 +0000] [error] [client 77.81.160.93] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:22:35:11 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:16:27:40 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:19:17:19 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:11:06:10 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:18:13:18 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:03:06:22 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:13:37:35 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:14:01:36 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:05:34:26 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:01:56:33 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:20:26:30 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:08:05:20 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:13:41:14 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:22:37:17 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:15:56:57 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:13:18:47 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:03:32:04 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:16:26:17 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:00:51:44 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:12:54:39 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:06:43:11 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:11:52:42 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:22:53:07 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:05:00:58 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:16:08:13 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:12:36:58 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:01:59:07 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:04:34:48 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:01:40:49 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:21:28:54 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:19:40:58 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:23:10:09 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:06:30:21 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:02:01:44 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:08:10:54 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:13:49:11 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:17:43:35 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:15:05:28 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:06:52:03 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:02:47:05 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:21:15:34 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:04:37:01 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:23:36:47 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:17:04:35 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:05:06:58 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:09:21:18 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:18:41:47 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:03:52:23 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:00:45:35 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:01:15:19 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:12:37:34 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:15:44:05 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[13/Apr/2025:22:20:41 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:07:00:03 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:20:32:47 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:13:44:52 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:10:07:53 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:02:26:02 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:16:05:35 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:23:26:24 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:16:04:25 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:03:51:59 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:13:22:11 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:01:55:00 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:22:55:29 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:08:30:45 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:06:03:54 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:17:31:21 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:12:31:41 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:18:06:55 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:15:22:42 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:00:27:51 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:09:51:52 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:23:47:55 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:16:38:44 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:04:17:58 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:07:30:17 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:02:53:20 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:00:02:55 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:12:13:19 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:17:49:58 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:06:17:37 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:22:30:29 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:16:28:45 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:01:53:40 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:23:11:29 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:04:47:00 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:10:14:45 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:21:22:26 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:14:26:19 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:12:28:13 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:05:46:26 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:20:06:50 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:15:09:28 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:11:55:17 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:08:30:38 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:08:03:27 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:02:28:31 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:20:11:38 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:01:46:37 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:00:26:22 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:17:58:39 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:17:33:28 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:21:17:03 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:20:53:42 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:15:19:53 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:09:06:22 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:19:09:27 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:18:01:51 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:00:45:12 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:16:50:25 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:15:03:31 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:00:31:52 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[13/Apr/2025:17:15:56 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[13/Apr/2025:10:37:30 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:05:52:15 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[13/Apr/2025:19:45:38 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[13/Apr/2025:23:00:08 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:02:13:03 +0000] [error] [client 34.197.183.234] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:17:30:23 +0000] [error] [client 142.54.35.28] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:03:11:12 +0000] [error] [client 100.166.93.142] client denied by server configuration: /restricted
+[12/Apr/2025:22:17:16 +0000] [error] [client 134.143.139.47] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:15:44:25 +0000] [error] [client 205.197.36.172] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:01:10:15 +0000] [error] [client 28.82.114.110] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:23:33:47 +0000] [error] [client 19.213.40.160] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:21:33:44 +0000] [error] [client 69.34.196.159] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:13:02:47 +0000] [error] [client 187.122.52.48] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:01:26:52 +0000] [error] [client 34.208.138.117] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:09:27:14 +0000] [error] [client 220.117.77.143] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:05:31:09 +0000] [error] [client 35.126.125.244] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:14:27:01 +0000] [error] [client 176.211.143.57] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:11:03:47 +0000] [error] [client 94.167.217.150] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:01:05:32 +0000] [error] [client 14.164.187.9] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:13:38:16 +0000] [error] [client 207.231.197.217] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:03:38:52 +0000] [error] [client 66.20.79.129] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:04:40:36 +0000] [error] [client 93.12.191.64] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:13:53:33 +0000] [error] [client 129.220.119.165] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:06:35:26 +0000] [error] [client 204.20.123.210] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:15:03:44 +0000] [error] [client 187.252.237.150] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:03:27:27 +0000] [error] [client 115.55.185.47] client denied by server configuration: /restricted
+[12/Apr/2025:15:58:25 +0000] [error] [client 31.169.66.171] client denied by server configuration: /restricted
+[12/Apr/2025:12:15:54 +0000] [error] [client 31.22.125.160] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:22:49:51 +0000] [error] [client 214.25.105.208] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:14:55:56 +0000] [error] [client 143.69.104.235] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:19:22:13 +0000] [error] [client 42.111.106.180] client denied by server configuration: /restricted
+[12/Apr/2025:21:01:08 +0000] [error] [client 189.147.127.168] client denied by server configuration: /restricted
+[12/Apr/2025:18:52:10 +0000] [error] [client 163.78.221.71] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:08:47:39 +0000] [error] [client 43.75.170.18] client denied by server configuration: /restricted
+[12/Apr/2025:02:59:02 +0000] [error] [client 121.180.116.162] client denied by server configuration: /restricted
+[12/Apr/2025:08:43:10 +0000] [error] [client 104.111.59.226] client denied by server configuration: /restricted
+[12/Apr/2025:10:57:39 +0000] [error] [client 140.137.15.158] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:11:09:37 +0000] [error] [client 158.30.159.112] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:15:53:22 +0000] [error] [client 177.255.210.17] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:19:21:54 +0000] [error] [client 74.106.86.108] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:11:40:48 +0000] [error] [client 69.229.243.208] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:02:25:57 +0000] [error] [client 134.250.159.228] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:12:33:40 +0000] [error] [client 106.148.202.234] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:18:34:29 +0000] [error] [client 11.245.196.183] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:10:17:28 +0000] [error] [client 92.87.67.158] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:14:21:31 +0000] [error] [client 90.2.208.120] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:18:05:26 +0000] [error] [client 47.60.151.97] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:04:18:26 +0000] [error] [client 5.229.17.61] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:22:21:18 +0000] [error] [client 78.2.84.167] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:21:32:22 +0000] [error] [client 129.162.149.137] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:10:19:21 +0000] [error] [client 206.95.253.126] client denied by server configuration: /restricted
+[12/Apr/2025:06:02:12 +0000] [error] [client 221.180.125.252] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:04:47:55 +0000] [error] [client 150.27.24.86] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:01:38:50 +0000] [error] [client 100.57.218.210] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:15:52:54 +0000] [error] [client 56.245.15.6] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:11:14:22 +0000] [error] [client 163.10.210.53] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:20:26:53 +0000] [error] [client 59.88.100.65] client denied by server configuration: /restricted
+[12/Apr/2025:17:55:41 +0000] [error] [client 191.86.120.249] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:16:23:27 +0000] [error] [client 195.251.145.136] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:18:35:40 +0000] [error] [client 28.98.212.215] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:17:06:59 +0000] [error] [client 218.107.159.170] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:16:19:49 +0000] [error] [client 166.183.2.26] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:21:30:19 +0000] [error] [client 134.21.46.241] client denied by server configuration: /restricted
+[12/Apr/2025:15:27:32 +0000] [error] [client 62.11.14.89] client denied by server configuration: /restricted
+[12/Apr/2025:15:26:55 +0000] [error] [client 222.74.62.12] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:19:03:47 +0000] [error] [client 94.222.101.52] client denied by server configuration: /restricted
+[12/Apr/2025:08:47:07 +0000] [error] [client 204.210.64.136] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:13:27:16 +0000] [error] [client 5.246.238.31] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:15:48:38 +0000] [error] [client 152.247.21.17] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:09:19:58 +0000] [error] [client 11.234.84.235] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:08:02:21 +0000] [error] [client 162.232.209.252] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:08:11:17 +0000] [error] [client 2.99.185.1] client denied by server configuration: /restricted
+[12/Apr/2025:21:46:53 +0000] [error] [client 77.39.6.82] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:14:43:47 +0000] [error] [client 105.36.50.177] client denied by server configuration: /restricted
+[12/Apr/2025:15:03:45 +0000] [error] [client 129.46.8.25] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:17:58:10 +0000] [error] [client 221.101.177.248] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:03:12:10 +0000] [error] [client 21.114.242.127] client denied by server configuration: /restricted
+[12/Apr/2025:04:15:39 +0000] [error] [client 13.148.62.100] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:11:49:29 +0000] [error] [client 34.94.186.8] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:16:08:49 +0000] [error] [client 38.233.78.223] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:20:35:39 +0000] [error] [client 197.235.105.93] client denied by server configuration: /restricted
+[12/Apr/2025:04:18:02 +0000] [error] [client 47.234.61.17] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:18:14:08 +0000] [error] [client 210.194.25.12] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:05:51:01 +0000] [error] [client 179.247.151.193] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:17:58:22 +0000] [error] [client 99.242.16.18] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:16:28:57 +0000] [error] [client 191.29.3.71] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:19:51:40 +0000] [error] [client 128.38.63.156] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:07:21:04 +0000] [error] [client 64.2.23.65] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:07:34:41 +0000] [error] [client 167.180.91.184] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:11:31:07 +0000] [error] [client 95.92.29.146] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:22:51:30 +0000] [error] [client 129.171.175.169] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:23:18:30 +0000] [error] [client 60.178.190.118] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:15:36:47 +0000] [error] [client 76.63.174.169] client denied by server configuration: /restricted
+[12/Apr/2025:06:09:33 +0000] [error] [client 93.234.15.47] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:20:45:44 +0000] [error] [client 128.115.204.156] client denied by server configuration: /restricted
+[12/Apr/2025:19:18:01 +0000] [error] [client 34.52.34.253] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:06:15:30 +0000] [error] [client 175.211.162.217] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:03:16:53 +0000] [error] [client 93.5.102.148] client denied by server configuration: /restricted
+[12/Apr/2025:08:31:43 +0000] [error] [client 82.57.15.86] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:02:30:51 +0000] [error] [client 83.25.227.139] client denied by server configuration: /restricted
+[12/Apr/2025:16:02:08 +0000] [error] [client 46.226.120.142] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:03:27:08 +0000] [error] [client 125.219.153.129] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:15:18:47 +0000] [error] [client 63.88.223.26] client denied by server configuration: /restricted
+[12/Apr/2025:22:16:55 +0000] [error] [client 135.184.80.105] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:12:12:39 +0000] [error] [client 37.249.249.195] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:18:34:04 +0000] [error] [client 143.118.161.220] client denied by server configuration: /restricted
+[12/Apr/2025:01:32:17 +0000] [error] [client 217.161.141.223] client denied by server configuration: /restricted
+[12/Apr/2025:10:59:59 +0000] [error] [client 23.147.132.89] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:14:25:46 +0000] [error] [client 166.221.241.87] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:09:46:11 +0000] [error] [client 208.223.55.26] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:08:59:17 +0000] [error] [client 7.106.68.105] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:05:01:46 +0000] [error] [client 55.77.78.85] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:01:25:08 +0000] [error] [client 53.101.213.84] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:21:39:34 +0000] [error] [client 36.25.169.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:08:45:30 +0000] [error] [client 151.7.163.63] client denied by server configuration: /restricted
+[12/Apr/2025:23:37:34 +0000] [error] [client 35.150.200.13] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:02:09:27 +0000] [error] [client 61.173.162.30] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:09:03:28 +0000] [error] [client 38.19.41.119] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:14:06:32 +0000] [error] [client 37.212.165.87] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:15:58:28 +0000] [error] [client 3.91.175.139] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:19:14:18 +0000] [error] [client 102.140.166.224] client denied by server configuration: /restricted
+[12/Apr/2025:03:40:38 +0000] [error] [client 160.219.145.218] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:20:26:21 +0000] [error] [client 95.33.131.184] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:05:57:08 +0000] [error] [client 200.35.223.89] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:22:40:44 +0000] [error] [client 139.239.165.209] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:18:14:59 +0000] [error] [client 204.24.145.211] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:12:01:32 +0000] [error] [client 148.100.181.229] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:03:47:50 +0000] [error] [client 109.161.150.233] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:14:38:38 +0000] [error] [client 88.243.21.244] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:03:58:37 +0000] [error] [client 108.4.145.71] client denied by server configuration: /restricted
+[12/Apr/2025:03:16:09 +0000] [error] [client 118.79.172.50] client denied by server configuration: /restricted
+[12/Apr/2025:13:51:41 +0000] [error] [client 44.47.149.69] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:21:10:19 +0000] [error] [client 93.192.4.125] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:01:24:39 +0000] [error] [client 71.195.141.102] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:19:58:21 +0000] [error] [client 22.172.65.125] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:10:56:02 +0000] [error] [client 31.98.62.182] client denied by server configuration: /restricted
+[12/Apr/2025:09:56:38 +0000] [error] [client 160.141.170.75] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:12:52:39 +0000] [error] [client 128.63.211.148] client denied by server configuration: /restricted
+[12/Apr/2025:23:39:23 +0000] [error] [client 218.0.43.151] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:00:51:29 +0000] [error] [client 191.112.31.118] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:14:27:43 +0000] [error] [client 183.203.246.201] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:13:21:53 +0000] [error] [client 82.202.233.229] client denied by server configuration: /restricted
+[12/Apr/2025:21:00:51 +0000] [error] [client 143.183.50.154] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:09:46:35 +0000] [error] [client 155.107.74.129] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:15:46:13 +0000] [error] [client 102.31.52.219] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:20:36:13 +0000] [error] [client 38.84.143.75] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:07:17:15 +0000] [error] [client 176.233.120.30] client denied by server configuration: /restricted
+[12/Apr/2025:06:43:26 +0000] [error] [client 213.201.90.191] client denied by server configuration: /restricted
+[12/Apr/2025:09:00:34 +0000] [error] [client 167.167.53.27] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:22:57:45 +0000] [error] [client 37.60.147.5] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:15:12:24 +0000] [error] [client 198.149.181.78] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:22:02:32 +0000] [error] [client 148.226.44.121] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:11:29:27 +0000] [error] [client 42.238.166.48] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:16:00:15 +0000] [error] [client 34.178.2.221] client denied by server configuration: /restricted
+[12/Apr/2025:17:33:21 +0000] [error] [client 217.95.15.249] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:02:23:00 +0000] [error] [client 59.82.126.223] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:01:53:37 +0000] [error] [client 211.131.82.131] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:00:36:18 +0000] [error] [client 162.115.186.10] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:17:20:29 +0000] [error] [client 132.143.42.47] client denied by server configuration: /restricted
+[12/Apr/2025:11:04:33 +0000] [error] [client 187.164.231.25] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:09:10:28 +0000] [error] [client 176.130.105.109] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:06:12:50 +0000] [error] [client 13.118.159.19] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:02:44:52 +0000] [error] [client 162.50.129.120] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:05:02:20 +0000] [error] [client 158.85.142.139] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:20:54:04 +0000] [error] [client 73.194.78.254] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:21:48:17 +0000] [error] [client 88.209.249.135] client denied by server configuration: /restricted
+[12/Apr/2025:10:23:20 +0000] [error] [client 54.6.121.147] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:15:18:43 +0000] [error] [client 175.110.251.244] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:13:01:04 +0000] [error] [client 191.94.239.88] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:05:46:08 +0000] [error] [client 154.188.198.174] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:15:06:02 +0000] [error] [client 49.59.227.65] client denied by server configuration: /restricted
+[12/Apr/2025:09:05:35 +0000] [error] [client 97.101.84.203] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:18:52:06 +0000] [error] [client 42.6.132.145] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:06:35:25 +0000] [error] [client 152.202.76.47] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:19:51:41 +0000] [error] [client 197.138.175.161] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:01:12:37 +0000] [error] [client 10.33.109.119] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:08:27:51 +0000] [error] [client 1.194.182.73] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:09:33:31 +0000] [error] [client 223.196.203.92] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:11:52:08 +0000] [error] [client 102.233.113.182] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:15:58:27 +0000] [error] [client 218.42.120.137] client denied by server configuration: /restricted
+[12/Apr/2025:00:40:50 +0000] [error] [client 201.4.187.19] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:00:22:03 +0000] [error] [client 29.21.204.154] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:17:19:46 +0000] [error] [client 93.103.49.247] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:18:43:52 +0000] [error] [client 190.224.28.174] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:00:35:33 +0000] [error] [client 27.87.155.63] client denied by server configuration: /restricted
+[12/Apr/2025:17:12:54 +0000] [error] [client 58.160.62.172] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:01:34:52 +0000] [error] [client 34.140.51.54] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:16:17:25 +0000] [error] [client 113.160.181.64] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:00:35:18 +0000] [error] [client 81.225.103.107] client denied by server configuration: /restricted
+[12/Apr/2025:21:25:56 +0000] [error] [client 196.227.214.190] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:07:17:31 +0000] [error] [client 99.141.96.235] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:01:46:47 +0000] [error] [client 98.91.131.22] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:00:26:02 +0000] [error] [client 163.155.116.185] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:22:06:06 +0000] [error] [client 166.14.212.234] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:00:20:16 +0000] [error] [client 28.58.8.179] client denied by server configuration: /restricted
+[12/Apr/2025:01:46:32 +0000] [error] [client 211.218.47.39] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:04:48:06 +0000] [error] [client 202.35.143.97] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:15:38:44 +0000] [error] [client 35.155.108.245] client denied by server configuration: /restricted
+[12/Apr/2025:22:13:41 +0000] [error] [client 91.19.138.36] client denied by server configuration: /restricted
+[12/Apr/2025:10:46:29 +0000] [error] [client 179.252.134.46] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:18:23:32 +0000] [error] [client 15.208.236.0] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:08:49:03 +0000] [error] [client 135.180.184.1] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:14:34:57 +0000] [error] [client 18.20.62.77] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:14:23:27 +0000] [error] [client 112.48.147.151] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:08:19:08 +0000] [error] [client 156.83.73.241] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:05:57:42 +0000] [error] [client 76.124.42.213] client denied by server configuration: /restricted
+[12/Apr/2025:04:40:01 +0000] [error] [client 206.179.236.123] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:11:15:17 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:19:39:40 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:00:28:51 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:13:49:54 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:20:54:05 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:06:57:09 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:03:01:52 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:00:34:10 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:13:13:58 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:18:37:27 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:07:25:07 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:15:04:00 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:12:06:08 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:19:42:22 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:10:05:49 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:20:51:17 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:19:26:09 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:17:43:00 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:13:24:22 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:23:24:21 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:08:09:03 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:06:12:19 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:14:46:36 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:00:17:38 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:08:22:37 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:19:32:40 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:18:50:11 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:19:06:43 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:21:51:22 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:07:22:57 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:09:59:34 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:09:42:23 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:13:15:53 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:10:40:59 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:02:25:11 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:22:27:22 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:22:21:20 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:10:01:02 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:01:42:56 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:05:26:55 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:02:35:16 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:00:57:35 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:03:35:13 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:01:39:22 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:07:09:17 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[12/Apr/2025:03:10:32 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:16:33:35 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:14:49:01 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:22:04:39 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:07:16:47 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:02:16:49 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:19:18:43 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:10:32:25 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:15:22:36 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[12/Apr/2025:15:26:26 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:01:30:05 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:06:11:51 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:17:50:46 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[12/Apr/2025:08:37:40 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:00:05:25 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:19:46:53 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:09:42:57 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:20:47:26 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[12/Apr/2025:12:18:46 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:13:32:34 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:03:47:32 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:22:05:15 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:09:31:48 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:20:02:34 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[12/Apr/2025:07:39:56 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:20:17:32 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:14:25:29 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:14:06:37 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:12:14:13 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:23:37:07 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:11:11:20 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:09:23:22 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[12/Apr/2025:19:03:54 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:20:55:19 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:17:37:03 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:12:33:19 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:22:06:47 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:00:08:15 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:04:45:10 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[12/Apr/2025:05:07:42 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:02:51:47 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[12/Apr/2025:12:11:28 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:18:16:50 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:07:29:08 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:23:47:56 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:06:17:37 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:06:02:19 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:15:12:02 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:02:22:26 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:02:45:25 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:20:53:43 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:11:00:05 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:16:09:33 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:18:35:42 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:21:31:28 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[12/Apr/2025:10:24:58 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:22:43:13 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:09:35:03 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:01:27:48 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:06:54:12 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[12/Apr/2025:07:12:04 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[12/Apr/2025:15:30:41 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[12/Apr/2025:07:54:46 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:11:47:14 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:20:12:09 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:15:07:12 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[12/Apr/2025:00:48:27 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[12/Apr/2025:09:55:13 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:16:32:59 +0000] [error] [client 24.101.72.66] client denied by server configuration: /restricted
+[11/Apr/2025:23:06:07 +0000] [error] [client 144.24.140.10] client denied by server configuration: /restricted
+[11/Apr/2025:04:12:35 +0000] [error] [client 101.133.101.213] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:08:47:26 +0000] [error] [client 164.177.203.234] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:19:55:43 +0000] [error] [client 85.65.218.185] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:06:20:17 +0000] [error] [client 71.18.76.168] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:20:32:03 +0000] [error] [client 219.172.115.107] client denied by server configuration: /restricted
+[11/Apr/2025:22:50:49 +0000] [error] [client 174.252.231.178] client denied by server configuration: /restricted
+[11/Apr/2025:07:06:56 +0000] [error] [client 48.142.196.8] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:14:02:21 +0000] [error] [client 73.255.32.83] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:02:19:10 +0000] [error] [client 101.117.51.132] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:08:55:35 +0000] [error] [client 157.69.221.66] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:21:42:26 +0000] [error] [client 6.57.111.159] client denied by server configuration: /restricted
+[11/Apr/2025:07:19:48 +0000] [error] [client 37.173.200.170] client denied by server configuration: /restricted
+[11/Apr/2025:04:12:19 +0000] [error] [client 211.89.153.56] client denied by server configuration: /restricted
+[11/Apr/2025:23:29:31 +0000] [error] [client 69.174.242.119] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:08:07:07 +0000] [error] [client 3.213.135.200] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:20:33:16 +0000] [error] [client 193.44.54.243] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:16:27:25 +0000] [error] [client 187.221.247.53] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:02:39:20 +0000] [error] [client 52.185.220.113] client denied by server configuration: /restricted
+[11/Apr/2025:15:37:06 +0000] [error] [client 164.199.239.245] client denied by server configuration: /restricted
+[11/Apr/2025:20:52:27 +0000] [error] [client 101.137.26.55] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:11:18:33 +0000] [error] [client 51.168.131.251] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:08:42:43 +0000] [error] [client 115.218.23.123] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:14:11:40 +0000] [error] [client 65.121.110.152] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:12:00:51 +0000] [error] [client 167.50.114.220] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:07:58:26 +0000] [error] [client 206.4.11.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:01:43:39 +0000] [error] [client 118.140.202.80] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:06:59:16 +0000] [error] [client 1.12.149.236] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:12:55:25 +0000] [error] [client 172.214.250.126] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:09:13:28 +0000] [error] [client 10.154.115.68] client denied by server configuration: /restricted
+[11/Apr/2025:13:08:46 +0000] [error] [client 29.94.177.156] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:09:10:42 +0000] [error] [client 118.163.81.177] client denied by server configuration: /restricted
+[11/Apr/2025:17:55:04 +0000] [error] [client 220.89.195.30] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:08:23:08 +0000] [error] [client 166.103.68.184] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:05:58:05 +0000] [error] [client 12.225.7.24] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:13:57:43 +0000] [error] [client 1.196.199.49] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:12:36:37 +0000] [error] [client 37.102.152.78] client denied by server configuration: /restricted
+[11/Apr/2025:16:50:40 +0000] [error] [client 2.81.252.57] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:23:29:43 +0000] [error] [client 143.166.167.226] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:18:37:43 +0000] [error] [client 5.135.238.250] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:14:11:07 +0000] [error] [client 85.43.121.24] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:16:59:07 +0000] [error] [client 67.52.61.83] client denied by server configuration: /restricted
+[11/Apr/2025:08:14:29 +0000] [error] [client 187.84.129.110] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:15:25:09 +0000] [error] [client 199.247.23.7] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:00:31:47 +0000] [error] [client 37.77.93.63] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:14:07:44 +0000] [error] [client 148.36.179.244] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:02:57:14 +0000] [error] [client 194.130.195.61] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:23:24:45 +0000] [error] [client 160.125.130.180] client denied by server configuration: /restricted
+[11/Apr/2025:00:57:04 +0000] [error] [client 61.69.225.98] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:05:48:53 +0000] [error] [client 148.127.246.132] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:17:09:16 +0000] [error] [client 134.71.181.172] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:22:04:52 +0000] [error] [client 207.37.15.180] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:15:11:26 +0000] [error] [client 180.25.87.115] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:17:59:38 +0000] [error] [client 13.133.8.117] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:17:20:51 +0000] [error] [client 9.124.216.46] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:07:32:00 +0000] [error] [client 159.26.229.180] client denied by server configuration: /restricted
+[11/Apr/2025:09:21:58 +0000] [error] [client 86.241.87.122] client denied by server configuration: /restricted
+[11/Apr/2025:07:34:44 +0000] [error] [client 188.46.57.130] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:12:42:24 +0000] [error] [client 158.66.168.231] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:06:47:50 +0000] [error] [client 143.66.42.134] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:09:42:13 +0000] [error] [client 130.216.232.176] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:05:41:33 +0000] [error] [client 152.208.140.79] client denied by server configuration: /restricted
+[11/Apr/2025:01:57:51 +0000] [error] [client 146.73.37.144] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:18:25:34 +0000] [error] [client 158.150.131.214] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:02:08:02 +0000] [error] [client 92.220.27.68] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:03:07:13 +0000] [error] [client 51.182.212.59] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:17:27:08 +0000] [error] [client 68.9.48.158] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:21:15:58 +0000] [error] [client 111.61.227.109] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:05:34:54 +0000] [error] [client 45.244.211.25] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:02:33:38 +0000] [error] [client 107.152.59.67] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:04:50:05 +0000] [error] [client 162.75.140.3] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:09:35:35 +0000] [error] [client 59.179.203.82] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:17:22:40 +0000] [error] [client 2.138.78.51] client denied by server configuration: /restricted
+[11/Apr/2025:09:38:18 +0000] [error] [client 210.106.249.34] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:17:07:11 +0000] [error] [client 14.115.192.3] client denied by server configuration: /restricted
+[11/Apr/2025:09:53:05 +0000] [error] [client 3.60.209.84] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:05:41:00 +0000] [error] [client 106.103.122.222] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:12:45:41 +0000] [error] [client 99.25.149.86] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:22:00:33 +0000] [error] [client 24.146.244.25] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:00:28:31 +0000] [error] [client 131.144.195.123] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:21:54:18 +0000] [error] [client 20.218.142.60] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:07:27:45 +0000] [error] [client 158.82.63.169] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:16:51:40 +0000] [error] [client 113.142.230.81] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:18:08:23 +0000] [error] [client 93.213.255.94] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:07:14:02 +0000] [error] [client 133.96.11.129] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:23:15:38 +0000] [error] [client 32.131.182.205] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:21:03:11 +0000] [error] [client 8.158.178.29] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:19:59:43 +0000] [error] [client 167.154.107.224] client denied by server configuration: /restricted
+[11/Apr/2025:22:17:18 +0000] [error] [client 181.46.201.67] client denied by server configuration: /restricted
+[11/Apr/2025:21:28:42 +0000] [error] [client 56.150.183.145] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:12:25:09 +0000] [error] [client 179.210.249.215] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:13:24:27 +0000] [error] [client 171.83.142.38] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:17:17:36 +0000] [error] [client 175.146.221.203] client denied by server configuration: /restricted
+[11/Apr/2025:05:30:45 +0000] [error] [client 171.47.1.113] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:12:19:56 +0000] [error] [client 135.52.213.2] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:10:15:09 +0000] [error] [client 21.94.120.0] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:08:58:26 +0000] [error] [client 71.118.1.203] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:17:37:14 +0000] [error] [client 51.23.141.219] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:20:39:48 +0000] [error] [client 130.94.198.7] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:14:52:10 +0000] [error] [client 203.74.147.1] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:16:04:07 +0000] [error] [client 162.99.203.14] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:13:23:21 +0000] [error] [client 68.249.41.147] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:11:07:30 +0000] [error] [client 83.173.224.93] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:03:31:21 +0000] [error] [client 82.171.247.98] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:08:48:52 +0000] [error] [client 114.191.125.156] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:18:14:34 +0000] [error] [client 8.226.155.247] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:01:33:17 +0000] [error] [client 125.152.104.38] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:23:42:13 +0000] [error] [client 96.60.100.148] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:04:08:51 +0000] [error] [client 37.5.146.164] client denied by server configuration: /restricted
+[11/Apr/2025:11:38:02 +0000] [error] [client 85.63.202.153] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:11:38:00 +0000] [error] [client 219.9.133.106] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:10:41:16 +0000] [error] [client 175.214.223.136] client denied by server configuration: /restricted
+[11/Apr/2025:14:24:03 +0000] [error] [client 49.253.255.116] client denied by server configuration: /restricted
+[11/Apr/2025:07:14:10 +0000] [error] [client 200.233.158.204] client denied by server configuration: /restricted
+[11/Apr/2025:10:26:26 +0000] [error] [client 72.201.145.142] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:04:12:38 +0000] [error] [client 19.246.21.40] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:03:16:46 +0000] [error] [client 1.170.140.133] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:17:08:01 +0000] [error] [client 128.5.168.170] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:03:17:10 +0000] [error] [client 22.20.26.185] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:13:28:00 +0000] [error] [client 84.167.49.165] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:16:20:18 +0000] [error] [client 96.236.80.211] client denied by server configuration: /restricted
+[11/Apr/2025:08:02:12 +0000] [error] [client 105.181.218.164] client denied by server configuration: /restricted
+[11/Apr/2025:23:04:31 +0000] [error] [client 2.161.124.13] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:10:15:39 +0000] [error] [client 15.129.47.221] client denied by server configuration: /restricted
+[11/Apr/2025:19:32:14 +0000] [error] [client 148.23.109.116] client denied by server configuration: /restricted
+[11/Apr/2025:06:28:08 +0000] [error] [client 12.10.178.179] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:22:35:41 +0000] [error] [client 135.153.8.139] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:09:32:28 +0000] [error] [client 154.180.128.71] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:00:50:33 +0000] [error] [client 220.223.47.15] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:06:50:19 +0000] [error] [client 190.237.87.175] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:17:00:33 +0000] [error] [client 67.218.66.195] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:01:22:00 +0000] [error] [client 113.192.141.132] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:05:55:03 +0000] [error] [client 223.117.204.83] client denied by server configuration: /restricted
+[11/Apr/2025:21:52:04 +0000] [error] [client 219.247.193.66] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:13:23:07 +0000] [error] [client 12.124.48.193] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:13:23:00 +0000] [error] [client 76.10.32.107] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:18:30:38 +0000] [error] [client 211.129.187.163] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:05:26:39 +0000] [error] [client 203.12.210.245] client denied by server configuration: /restricted
+[11/Apr/2025:16:27:21 +0000] [error] [client 168.197.121.39] client denied by server configuration: /restricted
+[11/Apr/2025:17:31:41 +0000] [error] [client 11.201.57.202] client denied by server configuration: /restricted
+[11/Apr/2025:09:14:15 +0000] [error] [client 199.44.247.180] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:02:18:57 +0000] [error] [client 104.107.197.166] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:23:44:28 +0000] [error] [client 117.113.217.162] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:09:05:38 +0000] [error] [client 189.59.231.1] client denied by server configuration: /restricted
+[11/Apr/2025:08:29:18 +0000] [error] [client 8.110.40.192] client denied by server configuration: /restricted
+[11/Apr/2025:07:42:36 +0000] [error] [client 14.68.192.215] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:20:52:32 +0000] [error] [client 191.49.156.101] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:10:27:53 +0000] [error] [client 131.40.175.146] client denied by server configuration: /restricted
+[11/Apr/2025:14:50:33 +0000] [error] [client 88.55.150.48] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:23:21:06 +0000] [error] [client 113.242.88.84] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:05:42:05 +0000] [error] [client 12.17.93.217] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:02:44:39 +0000] [error] [client 47.90.219.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:22:26:58 +0000] [error] [client 23.175.1.109] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:19:27:50 +0000] [error] [client 73.50.250.123] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:17:58:32 +0000] [error] [client 85.210.56.30] client denied by server configuration: /restricted
+[11/Apr/2025:19:47:02 +0000] [error] [client 113.57.219.55] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:18:13:41 +0000] [error] [client 91.157.100.192] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:15:26:30 +0000] [error] [client 122.168.79.125] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:18:26:43 +0000] [error] [client 205.236.0.200] client denied by server configuration: /restricted
+[11/Apr/2025:20:24:58 +0000] [error] [client 134.255.37.21] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:05:26:55 +0000] [error] [client 47.81.254.230] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:16:56:09 +0000] [error] [client 95.59.19.254] client denied by server configuration: /restricted
+[11/Apr/2025:23:17:10 +0000] [error] [client 14.216.16.223] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:16:52:12 +0000] [error] [client 215.145.50.150] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:10:31:07 +0000] [error] [client 3.96.85.40] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:09:29:13 +0000] [error] [client 102.5.145.174] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:02:06:15 +0000] [error] [client 125.247.137.128] client denied by server configuration: /restricted
+[11/Apr/2025:15:13:59 +0000] [error] [client 46.253.254.255] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:05:15:42 +0000] [error] [client 93.223.204.162] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:18:11:40 +0000] [error] [client 212.117.61.2] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:23:48:59 +0000] [error] [client 41.207.103.197] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:07:15:04 +0000] [error] [client 3.197.140.192] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:16:35:59 +0000] [error] [client 215.192.143.81] client denied by server configuration: /restricted
+[11/Apr/2025:12:36:47 +0000] [error] [client 205.38.49.238] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:16:00:00 +0000] [error] [client 138.206.107.221] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:01:46:44 +0000] [error] [client 76.70.17.230] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:22:32:54 +0000] [error] [client 152.17.232.68] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:15:55:16 +0000] [error] [client 23.135.46.25] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:12:34:33 +0000] [error] [client 83.119.75.182] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:04:17:51 +0000] [error] [client 62.236.72.46] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:20:42:21 +0000] [error] [client 51.132.93.39] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:11:14:11 +0000] [error] [client 95.17.136.160] client denied by server configuration: /restricted
+[11/Apr/2025:00:31:10 +0000] [error] [client 94.179.83.94] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:05:01:50 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[11/Apr/2025:20:11:35 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:04:47:21 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:14:30:45 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:21:05:29 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:23:37:30 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:07:42:17 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[11/Apr/2025:03:50:07 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:09:40:14 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:19:22:01 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:16:41:21 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:00:57:44 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:04:57:06 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:18:15:08 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[11/Apr/2025:13:53:27 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:00:28:44 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[11/Apr/2025:23:20:25 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:12:44:58 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:07:23:11 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:13:00:27 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[11/Apr/2025:20:21:55 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:17:23:47 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:04:15:35 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:01:04:03 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:09:11:17 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[11/Apr/2025:01:26:10 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:17:34:26 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[11/Apr/2025:10:01:09 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:03:32:11 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:04:02:08 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:09:31:53 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[11/Apr/2025:16:51:06 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:17:43:20 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:23:40:18 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:22:37:21 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:11:05:25 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:23:48:27 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[11/Apr/2025:06:47:00 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:09:28:32 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:02:51:22 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[11/Apr/2025:01:08:50 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:12:35:01 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[11/Apr/2025:17:21:45 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:15:19:10 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[11/Apr/2025:04:30:38 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:00:30:58 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:11:47:34 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:21:35:37 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:02:14:20 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:11:39:49 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:19:25:25 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:00:25:48 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:23:02:42 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:08:24:42 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:16:27:58 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:10:16:50 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:07:51:26 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:10:05:20 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:09:12:27 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:14:43:01 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:14:36:00 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:06:46:09 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:04:15:17 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:21:45:51 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:16:01:02 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:23:56:22 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:07:11:14 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:00:34:17 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:08:19:35 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:04:22:07 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:12:11:10 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:13:07:16 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:21:24:12 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:01:22:16 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:13:47:34 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:00:50:48 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:18:58:16 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:10:43:24 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:02:15:58 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:16:04:47 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:01:50:32 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:16:03:45 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:07:18:28 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:15:17:58 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:19:39:53 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:17:05:16 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:20:10:07 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:16:56:52 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:10:33:32 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:14:41:20 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:06:18:46 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:04:48:41 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:20:00:20 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:16:40:32 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:14:14:39 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:13:54:52 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:22:15:17 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:18:59:17 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:03:32:31 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:12:12:14 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:05:10:24 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:04:11:01 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:14:34:22 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:19:25:16 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:14:46:26 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[11/Apr/2025:09:47:10 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:02:46:42 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:03:46:06 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:07:18:07 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:02:11:36 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:17:32:12 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:20:35:23 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[11/Apr/2025:15:05:00 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[11/Apr/2025:08:54:50 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[11/Apr/2025:05:57:09 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[10/Apr/2025:13:49:56 +0000] [error] [client 16.161.85.59] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:16:59:31 +0000] [error] [client 132.109.37.111] client denied by server configuration: /restricted
+[10/Apr/2025:03:53:40 +0000] [error] [client 33.20.183.162] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:15:08:59 +0000] [error] [client 21.182.26.58] client denied by server configuration: /restricted
+[10/Apr/2025:22:07:47 +0000] [error] [client 218.193.5.116] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:13:06:01 +0000] [error] [client 2.245.227.103] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:19:30:07 +0000] [error] [client 102.251.252.33] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:13:54:24 +0000] [error] [client 44.39.10.57] client denied by server configuration: /restricted
+[10/Apr/2025:19:36:19 +0000] [error] [client 137.51.96.64] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:02:00:31 +0000] [error] [client 56.14.175.62] client denied by server configuration: /restricted
+[10/Apr/2025:02:07:09 +0000] [error] [client 131.87.8.141] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:01:16:36 +0000] [error] [client 207.181.182.159] client denied by server configuration: /restricted
+[10/Apr/2025:15:29:31 +0000] [error] [client 125.187.3.103] client denied by server configuration: /restricted
+[10/Apr/2025:19:25:47 +0000] [error] [client 45.188.93.33] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:01:20:57 +0000] [error] [client 18.112.18.201] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:07:15:49 +0000] [error] [client 95.21.123.184] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:22:33:52 +0000] [error] [client 137.32.254.74] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:07:12:49 +0000] [error] [client 209.221.216.16] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:08:40:52 +0000] [error] [client 156.79.80.51] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:15:32:57 +0000] [error] [client 165.191.120.244] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:09:52:49 +0000] [error] [client 121.55.169.201] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:17:04:45 +0000] [error] [client 154.173.125.254] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:03:28:22 +0000] [error] [client 114.235.217.221] client denied by server configuration: /restricted
+[10/Apr/2025:18:44:47 +0000] [error] [client 21.123.25.5] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:21:09:11 +0000] [error] [client 88.213.76.93] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:13:56:43 +0000] [error] [client 135.97.85.94] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:14:31:57 +0000] [error] [client 70.111.96.183] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:12:23:58 +0000] [error] [client 218.144.118.15] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:19:40:02 +0000] [error] [client 82.141.82.121] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:19:48:21 +0000] [error] [client 76.189.112.83] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:02:18:37 +0000] [error] [client 199.131.130.200] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:03:50:57 +0000] [error] [client 207.189.153.89] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:04:57:38 +0000] [error] [client 149.16.16.178] client denied by server configuration: /restricted
+[10/Apr/2025:07:03:32 +0000] [error] [client 138.65.15.181] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:03:16:43 +0000] [error] [client 30.151.74.179] client denied by server configuration: /restricted
+[10/Apr/2025:06:23:07 +0000] [error] [client 64.140.13.205] client denied by server configuration: /restricted
+[10/Apr/2025:17:36:25 +0000] [error] [client 36.159.171.111] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:09:00:08 +0000] [error] [client 7.77.54.91] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:00:42:44 +0000] [error] [client 94.142.15.71] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:04:08:38 +0000] [error] [client 107.85.139.9] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:09:54:01 +0000] [error] [client 207.9.213.189] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:13:46:23 +0000] [error] [client 137.216.158.20] client denied by server configuration: /restricted
+[10/Apr/2025:10:36:57 +0000] [error] [client 37.62.227.220] client denied by server configuration: /restricted
+[10/Apr/2025:02:51:10 +0000] [error] [client 20.200.190.168] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:02:18:36 +0000] [error] [client 154.12.167.97] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:19:24:48 +0000] [error] [client 107.156.220.34] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:14:12:20 +0000] [error] [client 186.147.124.223] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:13:53:49 +0000] [error] [client 15.206.203.198] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:10:12:17 +0000] [error] [client 7.77.178.173] client denied by server configuration: /restricted
+[10/Apr/2025:15:16:06 +0000] [error] [client 170.57.50.223] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:12:28:52 +0000] [error] [client 219.138.103.63] client denied by server configuration: /restricted
+[10/Apr/2025:17:32:14 +0000] [error] [client 28.56.16.106] client denied by server configuration: /restricted
+[10/Apr/2025:08:11:18 +0000] [error] [client 22.200.197.233] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:10:12:03 +0000] [error] [client 209.141.7.232] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:09:31:31 +0000] [error] [client 138.232.13.111] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:15:01:49 +0000] [error] [client 39.99.159.250] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:22:05:12 +0000] [error] [client 186.139.77.237] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:18:27:59 +0000] [error] [client 178.172.152.202] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:22:17:24 +0000] [error] [client 156.20.151.132] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:00:02:14 +0000] [error] [client 143.41.211.161] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:17:42:14 +0000] [error] [client 94.23.233.167] client denied by server configuration: /restricted
+[10/Apr/2025:12:22:33 +0000] [error] [client 104.250.111.49] client denied by server configuration: /restricted
+[10/Apr/2025:11:53:07 +0000] [error] [client 80.215.167.43] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:01:11:29 +0000] [error] [client 190.62.168.1] client denied by server configuration: /restricted
+[10/Apr/2025:12:14:18 +0000] [error] [client 107.241.27.25] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:18:37:56 +0000] [error] [client 5.50.250.179] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:08:27:26 +0000] [error] [client 28.161.250.24] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:19:58:46 +0000] [error] [client 147.175.22.36] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:02:19:40 +0000] [error] [client 182.107.119.127] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:02:11:53 +0000] [error] [client 23.113.64.241] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:21:25:28 +0000] [error] [client 207.203.236.223] client denied by server configuration: /restricted
+[10/Apr/2025:12:57:28 +0000] [error] [client 91.164.140.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:01:20:08 +0000] [error] [client 87.15.239.133] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:03:16:59 +0000] [error] [client 151.133.12.242] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:01:56:38 +0000] [error] [client 45.7.15.66] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:16:46:54 +0000] [error] [client 119.84.61.145] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:05:05:36 +0000] [error] [client 93.185.154.128] client denied by server configuration: /restricted
+[10/Apr/2025:22:22:11 +0000] [error] [client 87.249.204.105] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:18:09:49 +0000] [error] [client 96.221.143.242] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:06:10:57 +0000] [error] [client 158.121.122.153] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:14:32:52 +0000] [error] [client 174.185.218.104] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:07:42:45 +0000] [error] [client 175.161.120.20] client denied by server configuration: /restricted
+[10/Apr/2025:20:25:43 +0000] [error] [client 188.60.133.144] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:18:40:05 +0000] [error] [client 220.238.147.34] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:22:57:36 +0000] [error] [client 162.248.13.197] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:18:04:20 +0000] [error] [client 137.50.41.187] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:03:21:46 +0000] [error] [client 212.146.194.176] client denied by server configuration: /restricted
+[10/Apr/2025:05:14:44 +0000] [error] [client 3.36.237.169] client denied by server configuration: /restricted
+[10/Apr/2025:10:50:29 +0000] [error] [client 220.65.0.133] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:23:15:22 +0000] [error] [client 15.97.78.138] client denied by server configuration: /restricted
+[10/Apr/2025:20:50:38 +0000] [error] [client 143.233.126.101] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:09:53:18 +0000] [error] [client 70.82.199.218] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:15:47:38 +0000] [error] [client 162.34.84.120] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:11:07:12 +0000] [error] [client 68.188.154.153] client denied by server configuration: /restricted
+[10/Apr/2025:15:12:27 +0000] [error] [client 72.124.117.212] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:18:11:34 +0000] [error] [client 179.7.103.151] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:18:25:13 +0000] [error] [client 13.158.86.89] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:06:05:41 +0000] [error] [client 162.255.16.206] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:14:15:25 +0000] [error] [client 171.4.24.131] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:20:20:46 +0000] [error] [client 84.113.65.124] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:11:02:41 +0000] [error] [client 33.76.142.181] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:09:52:36 +0000] [error] [client 199.17.55.133] client denied by server configuration: /restricted
+[10/Apr/2025:08:37:01 +0000] [error] [client 174.84.205.217] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:02:49:15 +0000] [error] [client 218.45.146.241] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:02:28:19 +0000] [error] [client 49.241.126.56] client denied by server configuration: /restricted
+[10/Apr/2025:00:47:22 +0000] [error] [client 179.41.70.90] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:23:16:29 +0000] [error] [client 199.172.67.97] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:02:56:57 +0000] [error] [client 119.107.76.244] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:21:52:28 +0000] [error] [client 13.154.119.209] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:10:24:23 +0000] [error] [client 160.36.170.245] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:07:43:53 +0000] [error] [client 164.77.83.108] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:00:15:17 +0000] [error] [client 130.195.32.100] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:23:14:35 +0000] [error] [client 133.16.222.120] client denied by server configuration: /restricted
+[10/Apr/2025:12:38:08 +0000] [error] [client 198.252.251.203] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:08:31:47 +0000] [error] [client 84.30.118.239] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:21:24:34 +0000] [error] [client 201.24.5.232] client denied by server configuration: /restricted
+[10/Apr/2025:11:13:39 +0000] [error] [client 169.251.53.5] client denied by server configuration: /restricted
+[10/Apr/2025:05:38:54 +0000] [error] [client 47.198.54.236] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:04:59:02 +0000] [error] [client 28.249.238.96] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:02:45:06 +0000] [error] [client 159.247.244.250] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:08:44:28 +0000] [error] [client 145.63.251.30] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:17:57:28 +0000] [error] [client 91.93.166.96] client denied by server configuration: /restricted
+[10/Apr/2025:07:14:40 +0000] [error] [client 38.199.91.107] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:08:41:44 +0000] [error] [client 109.149.51.234] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:13:10:59 +0000] [error] [client 12.116.197.132] client denied by server configuration: /restricted
+[10/Apr/2025:18:37:36 +0000] [error] [client 84.246.19.104] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:13:09:51 +0000] [error] [client 27.137.104.140] client denied by server configuration: /restricted
+[10/Apr/2025:03:23:26 +0000] [error] [client 175.128.212.128] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:16:59:41 +0000] [error] [client 41.228.219.241] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:19:52:34 +0000] [error] [client 67.131.184.20] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:03:05:50 +0000] [error] [client 219.56.21.69] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:14:35:12 +0000] [error] [client 107.243.95.219] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:23:16:31 +0000] [error] [client 30.193.112.152] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:06:38:56 +0000] [error] [client 144.210.12.244] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:21:07:14 +0000] [error] [client 112.152.175.231] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:14:06:01 +0000] [error] [client 74.216.18.172] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:17:05:44 +0000] [error] [client 194.73.172.201] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:03:56:35 +0000] [error] [client 27.165.193.166] client denied by server configuration: /restricted
+[10/Apr/2025:09:20:56 +0000] [error] [client 91.80.183.221] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:17:40:40 +0000] [error] [client 144.187.110.121] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:17:00:52 +0000] [error] [client 112.20.45.49] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:22:36:42 +0000] [error] [client 170.140.146.93] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:02:55:11 +0000] [error] [client 126.55.23.159] client denied by server configuration: /restricted
+[10/Apr/2025:19:39:47 +0000] [error] [client 79.73.53.72] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:01:05:15 +0000] [error] [client 29.42.138.220] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:09:32:13 +0000] [error] [client 52.116.168.198] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:23:06:01 +0000] [error] [client 69.191.101.96] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:11:03:59 +0000] [error] [client 45.175.75.223] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:21:18:46 +0000] [error] [client 80.18.64.146] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:11:31:02 +0000] [error] [client 45.135.85.244] client denied by server configuration: /restricted
+[10/Apr/2025:17:14:31 +0000] [error] [client 123.29.118.24] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:15:44:59 +0000] [error] [client 48.47.96.172] client denied by server configuration: /restricted
+[10/Apr/2025:22:10:11 +0000] [error] [client 54.218.23.12] client denied by server configuration: /restricted
+[10/Apr/2025:11:14:18 +0000] [error] [client 78.113.134.171] client denied by server configuration: /restricted
+[10/Apr/2025:20:40:27 +0000] [error] [client 90.142.165.232] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:06:37:08 +0000] [error] [client 151.132.145.246] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:16:18:45 +0000] [error] [client 222.247.71.57] client denied by server configuration: /restricted
+[10/Apr/2025:17:03:00 +0000] [error] [client 23.155.25.44] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:00:31:45 +0000] [error] [client 89.235.214.6] client denied by server configuration: /restricted
+[10/Apr/2025:22:32:29 +0000] [error] [client 14.52.70.255] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:10:13:54 +0000] [error] [client 49.35.214.194] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:23:58:00 +0000] [error] [client 217.66.72.55] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:05:32:58 +0000] [error] [client 77.145.168.148] client denied by server configuration: /restricted
+[10/Apr/2025:13:56:36 +0000] [error] [client 13.213.171.246] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:20:59:13 +0000] [error] [client 21.182.4.233] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:20:12:58 +0000] [error] [client 115.41.157.0] client denied by server configuration: /restricted
+[10/Apr/2025:18:35:47 +0000] [error] [client 43.44.207.43] client denied by server configuration: /restricted
+[10/Apr/2025:21:19:09 +0000] [error] [client 93.186.201.185] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:21:28:25 +0000] [error] [client 150.252.41.29] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:10:56:54 +0000] [error] [client 132.154.75.35] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:11:29:17 +0000] [error] [client 66.76.236.37] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:22:29:13 +0000] [error] [client 145.14.20.47] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:00:40:53 +0000] [error] [client 94.250.170.171] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:03:28:47 +0000] [error] [client 199.92.64.175] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:01:40:04 +0000] [error] [client 26.225.215.212] client denied by server configuration: /restricted
+[10/Apr/2025:19:08:12 +0000] [error] [client 21.223.65.184] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:12:20:23 +0000] [error] [client 38.135.54.90] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:00:11:18 +0000] [error] [client 180.6.127.123] client denied by server configuration: /restricted
+[10/Apr/2025:08:31:11 +0000] [error] [client 223.206.146.179] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:11:24:01 +0000] [error] [client 95.46.167.136] client denied by server configuration: /restricted
+[10/Apr/2025:04:04:19 +0000] [error] [client 124.17.216.164] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:13:27:36 +0000] [error] [client 74.239.213.10] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:17:39:01 +0000] [error] [client 142.58.3.179] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:10:21:57 +0000] [error] [client 126.136.49.8] client denied by server configuration: /restricted
+[10/Apr/2025:18:04:43 +0000] [error] [client 176.136.60.231] client denied by server configuration: /restricted
+[10/Apr/2025:06:47:16 +0000] [error] [client 148.88.17.40] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:16:35:23 +0000] [error] [client 159.88.102.237] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:00:50:26 +0000] [error] [client 156.132.254.45] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:07:30:13 +0000] [error] [client 71.67.240.71] client denied by server configuration: /restricted
+[10/Apr/2025:02:05:24 +0000] [error] [client 8.81.90.54] client denied by server configuration: /restricted
+[10/Apr/2025:03:42:48 +0000] [error] [client 22.193.124.123] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:08:35:57 +0000] [error] [client 69.160.60.207] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:13:32:47 +0000] [error] [client 82.221.150.78] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:15:24:13 +0000] [error] [client 22.161.111.102] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:03:19:19 +0000] [error] [client 85.96.130.57] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:13:36:06 +0000] [error] [client 3.125.42.143] client denied by server configuration: /restricted
+[10/Apr/2025:11:51:51 +0000] [error] [client 113.62.88.18] client denied by server configuration: /restricted
+[10/Apr/2025:05:38:31 +0000] [error] [client 199.93.10.227] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:05:55:05 +0000] [error] [client 54.167.76.84] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:05:48:24 +0000] [error] [client 207.75.40.96] client denied by server configuration: /restricted
+[10/Apr/2025:00:28:36 +0000] [error] [client 139.45.161.21] client denied by server configuration: /restricted
+[10/Apr/2025:03:55:09 +0000] [error] [client 111.122.60.90] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:20:00:23 +0000] [error] [client 102.254.196.147] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:13:58:55 +0000] [error] [client 12.233.105.232] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:21:59:43 +0000] [error] [client 197.102.106.221] client denied by server configuration: /restricted
+[10/Apr/2025:19:02:47 +0000] [error] [client 46.235.61.34] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:07:39:37 +0000] [error] [client 91.117.244.182] client denied by server configuration: /restricted
+[10/Apr/2025:05:00:41 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:02:31:30 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:11:51:14 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:05:04:42 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:11:52:23 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:19:12:22 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:23:49:01 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:03:50:09 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:08:09:39 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[10/Apr/2025:04:47:39 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:20:44:30 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[10/Apr/2025:08:44:58 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:04:23:37 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[10/Apr/2025:06:32:14 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[10/Apr/2025:23:58:44 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:05:42:06 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:12:10:55 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:21:41:21 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[10/Apr/2025:06:25:30 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:08:47:25 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:02:27:24 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:01:44:57 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:05:57:54 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:06:33:36 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:12:45:07 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:15:02:00 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:14:03:18 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:17:23:36 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:03:14:14 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:20:31:50 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:04:17:54 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:06:39:33 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:18:08:22 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:11:53:26 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:12:53:34 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[10/Apr/2025:14:15:05 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:13:38:42 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:21:12:59 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:06:50:08 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:09:48:04 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[10/Apr/2025:15:57:57 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:22:44:21 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:04:52:23 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[10/Apr/2025:20:56:05 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:16:46:20 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[10/Apr/2025:14:42:12 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:12:09:39 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:21:44:28 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:00:00:19 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:15:31:55 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:12:47:59 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[10/Apr/2025:07:43:37 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:00:09:16 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:16:25:51 +0000] [error] [client 192.168.100.100] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:19:00:11 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:13:01:06 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[10/Apr/2025:22:19:55 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:19:09:46 +0000] [error] [client 192.168.100.100] client denied by server configuration: /restricted
+[10/Apr/2025:01:07:16 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:13:29:17 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:07:16:01 +0000] [error] [client 192.168.100.100] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:14:18:59 +0000] [error] [client 192.168.100.100] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:13:15:41 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[10/Apr/2025:16:06:33 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:01:22:16 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:03:08:41 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[10/Apr/2025:06:24:14 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:11:35:52 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:03:21:12 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:02:27:16 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:21:08:48 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[10/Apr/2025:05:09:01 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:02:35:57 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:02:57:47 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:03:37:48 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:04:32:04 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:09:10:46 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:20:22:45 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:05:02:05 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:08:22:04 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:17:33:20 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:09:03:40 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:08:46:37 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:18:41:05 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:03:18:58 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:03:53:14 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[10/Apr/2025:02:24:32 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[10/Apr/2025:21:40:13 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:05:50:38 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:15:16:19 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:20:56:51 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[10/Apr/2025:21:39:14 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:16:28:30 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:04:11:22 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:10:47:14 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[10/Apr/2025:16:59:24 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:04:57:52 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:10:49:32 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:00:48:46 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:23:07:54 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:14:20:33 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:16:49:28 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:07:20:23 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:23:34:45 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:00:25:33 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:22:00:32 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:16:23:50 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:01:50:38 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:12:16:52 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:23:43:21 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:12:49:47 +0000] [error] [client 10.0.0.99] upstream timed out (110: Connection timed out) while reading response header
+[10/Apr/2025:18:07:55 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[10/Apr/2025:13:32:18 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[10/Apr/2025:22:39:34 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:07:18:11 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[10/Apr/2025:15:41:13 +0000] [error] [client 10.0.0.99] script not found or unable to stat: /cgi-bin/test.cgi
+[10/Apr/2025:02:00:31 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted
+[10/Apr/2025:14:20:50 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:06:24:50 +0000] [error] [client 10.0.0.99] File does not exist: /var/www/favicon.ico
+[10/Apr/2025:04:13:11 +0000] [error] [client 10.0.0.99] client denied by server configuration: /restricted

@@ -1,0 +1,72 @@
+services:
+  postgresql:
+    container_name: postgresql
+    image: postgres:15
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgresql
+      - POSTGRES_DB=hive_metastore
+    volumes:
+      - postgresql_data:/var/lib/postgresql/data
+      - ./postgresql/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - cluster
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres"]
+      interval: 10s
+      retries: 5
+      start_period: 5s
+
+  cluster-master:
+    container_name: cluster-master
+    hostname: cluster-master
+    image: veribilimiokulu/ubuntu_hadoop_hive_sqoop:3.0
+    depends_on:
+      postgresql:
+        condition: service_healthy
+    networks:
+      - cluster
+    tty: true
+    stdin_open: true
+    ports:
+      - "8088:8088"   # Hadoop ResourceManager
+      - "9870:9870"   # Hadoop NameNode Web UI
+      - "19888:19888" # Hadoop JobHistory Server
+      - "9000:9000"   # Hadoop NameNode
+      - "8040:8042"   # Hadoop NodeManager
+      - "9999:9999"   # Jupyter Lab
+      - "4040:4040"   # Spark UI
+      - "10000:10000" # HiveServer2
+    volumes:
+      - namenode:/usr/local/hadoop/hdfs/namenode
+      - datanode:/usr/local/hadoop/hdfs/datanode
+      - ./postgresql/hive-site.xml:/usr/local/hive/conf/hive-site.xml
+      - ./postgresql/core-site.xml:/usr/local/hadoop/etc/hadoop/core-site.xml
+    environment:
+      - HADOOP_HOME=/usr/local/hadoop
+    entrypoint: /bin/bash -c "if [ ! -f /usr/local/hadoop/hdfs/namenode/.formatted ]; then /usr/local/hadoop/bin/hdfs namenode -format hdfs && touch /usr/local/hadoop/hdfs/namenode/.formatted && service ssh start && /usr/local/hadoop/start-master.sh; else service ssh start && /usr/local/hadoop/start-master.sh; fi && jupyter lab --ip=0.0.0.0 --port=9999 --allow-root --NotebookApp.token='' --NotebookApp.disable_check_xsrf=True && bash"
+
+  spark_client:
+    container_name: spark_client
+    image: veribilimiokulu/sparkclient_jupyterlab:3.0
+    ports:
+      - "8888:8888"   # Jupyter Lab
+    volumes:
+      - ./spark:/dataops
+      - ./spark/logs:/dataops/logs
+    depends_on:
+      - cluster-master
+    networks:
+      - cluster
+
+networks:
+  cluster:
+    name: cluster
+    driver: bridge
+
+volumes:
+  postgresql_data:
+  namenode:
+  datanode:
